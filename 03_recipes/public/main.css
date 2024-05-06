@@ -1,0 +1,4 @@
+li::before {
+  content: "-";
+  opacity: 50%;
+}
